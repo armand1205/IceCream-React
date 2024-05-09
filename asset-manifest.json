@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IceCream-React/static/css/main.7acaea2f.css",
+    "main.js": "/IceCream-React/static/js/main.07d3183d.js",
+    "index.html": "/IceCream-React/index.html",
+    "main.7acaea2f.css.map": "/IceCream-React/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/IceCream-React/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
